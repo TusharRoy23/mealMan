@@ -1,5 +1,5 @@
 # mealMan
-It's a basic meal management system using Codeigniter
+It's a basic meal management system using Codeigniter 3.1.10
 
 1) Proper use of file structure.
 2) Custom Helpers.
